@@ -1,6 +1,3 @@
-complete full implementation code (for vc ssi zkp implementation) and for comparisons of it with other algorithms 
-ChatGPT said:
-ChatGPT
 Implementing a Self-Sovereign Identity (SSI) system with Verifiable Credentials (VC) and Zero-Knowledge Proofs (ZKP), alongside the comparative algorithms, requires a modular and scalable approach. Below is the full implementation code for the proposed system and a comparison framework. It includes all key components: SSI, VC issuance/verification, ZKP, and comparison algorithms.
 
 Project Structure
@@ -189,9 +186,6 @@ python main.py
 This framework integrates SSI+VC+ZKP and enables comparisons against OAuth, SAML, and others. You can add metrics like scalability, data ownership, and more based on the experiment outcomes.
 
 
-codes for stubs implemented for SAML, uPort, Idemix, and U-Prove, focusing on their unique workflows
-ChatGPT said:
-ChatGPT
 Below are the code implementations for the stub workflows for SAML, uPort, Idemix, and U-Prove, focusing on their unique aspects. These stubs simulate the authentication and verification processes of each system, providing a baseline for comparison.
 
 1. SAML Implementation
